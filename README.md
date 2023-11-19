@@ -80,9 +80,9 @@ python3 video_dalle.py
 
 ## TODO (future)
 - [ ] **Interactive Web Interface**: Create a web application allowing users to upload audio and customize the video generation process.
-- **Interactive Web Interface**: Create a web application allowing users to upload audio and customize the video generation process.
-- **Narrative Enhancement**: Implement more advanced NLP techniques to enrich the storytelling aspect.
-- **Custom Image Styles**: Integrate options for different illustration styles in DALL-E image generation.
+- [ ] **Interactive Web Interface**: Create a web application allowing users to upload audio and customize the video generation process.
+- [ ] **Narrative Enhancement**: Implement more advanced NLP techniques to enrich the storytelling aspect.
+- [ ] **Custom Image Styles**: Integrate options for different illustration styles in DALL-E image generation.
 
 ## References
 - [OpenAI Speech-to-Text Quickstart](https://platform.openai.com/docs/guides/speech-to-text/quickstart)
