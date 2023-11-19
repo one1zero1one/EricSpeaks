@@ -3,6 +3,8 @@
 ## Overview
 This project brings to life the imaginative stories of a 3-year-old by using the OpenAI API to create videos with AI-generated images and subtitles. Recordings of a child's voice are transcribed, subtitled, and then transformed into captivating videos with visually appealing background images.
 
+First tests  [here](https://www.youtube.com/watch?v=oH6EAnmP20A&list=PLK-fukR2qF4yxx7bKOAnfiWA_KT7RAYn_&ab_channel=DanielRadu)
+
 ## Setup
 ```bash
 export OPENAI_API_KEY=...
@@ -61,7 +63,7 @@ python3 video_dallee_dalle.py
 python3 video_dalle.py
 ```
 
-## Changelog
+## TODO (in progress)
 - [x] **Audio Segmentation**: Split long audio files into smaller segments (up to 20MB each) for efficient processing.
 - [x] **Transcription**: Convert audio segments to text and subtitles.
 - [x] **Text Improvement with GPT-4**: Refine the transcribed text using GPT-4 for more coherent storytelling.
@@ -74,6 +76,10 @@ python3 video_dalle.py
   - [ ] use the above to determine the lenght of the video segments
   - [ ] use the above to determine the content of the video segments
 - [ ] **Automate the Workflow**: Develop a script to automate the entire process from audio segmentation to video creation.
+  - [ ] Use SQLlite to store data and deal with SRT timestamps
+
+## TODO (future)
+- [ ] **Interactive Web Interface**: Create a web application allowing users to upload audio and customize the video generation process.
 - **Interactive Web Interface**: Create a web application allowing users to upload audio and customize the video generation process.
 - **Narrative Enhancement**: Implement more advanced NLP techniques to enrich the storytelling aspect.
 - **Custom Image Styles**: Integrate options for different illustration styles in DALL-E image generation.
