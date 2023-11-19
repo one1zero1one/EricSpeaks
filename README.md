@@ -1,4 +1,4 @@
-# Project: AI-Enhanced Storytelling with OpenAI
+# Project: Toddler subtitles
 
 ## Overview
 This project brings to life the imaginative stories of a 3-year-old by using the OpenAI API to create videos with AI-generated images and subtitles. Recordings of a child's voice are transcribed, subtitled, and then transformed into captivating videos with visually appealing background images.
