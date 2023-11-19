@@ -3,7 +3,7 @@
 ## Overview
 This project brings to life the imaginative stories of a 3-year-old by using the OpenAI API to create videos with AI-generated images and subtitles. Recordings of a child's voice are transcribed, subtitled, and then transformed into captivating videos with visually appealing background images.
 
-First tests  [here](https://www.youtube.com/watch?v=oH6EAnmP20A&list=PLK-fukR2qF4yxx7bKOAnfiWA_KT7RAYn_&ab_channel=DanielRadu)
+Initial results  [here](https://www.youtube.com/watch?v=oH6EAnmP20A&list=PLK-fukR2qF4yxx7bKOAnfiWA_KT7RAYn_&ab_channel=DanielRadu)
 
 ## Setup
 ```bash
